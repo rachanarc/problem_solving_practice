@@ -1,3 +1,5 @@
+package DSA.String;
+
 public class EvenWordsFromString {
 
     public static void main(String[] args) {

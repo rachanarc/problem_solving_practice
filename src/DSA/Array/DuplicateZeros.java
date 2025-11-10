@@ -3,9 +3,9 @@ package DSA.Array;
 import java.util.Arrays;
 
 public class DuplicateZeros {
-    static int[] arr = {1,0,2,3,0,4,5,0};
+    //static int[] arr = {1,0,2,3,0,4,5,0};
     //static int[] arr = {1,2,3};
-    //static int[] arr = {8,4,5,0,0,0,0,7};
+    static int[] arr = {8,4,5,0,0,0,0,7};
 
     public static void addDuplicateZeros(){
         int length = arr.length;
